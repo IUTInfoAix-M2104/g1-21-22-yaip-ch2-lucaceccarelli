@@ -15,8 +15,10 @@ public class ComputePI {
 				System.out.println("Impossible!!!");
 			}
 		}
+		sum*=4;
 		System.out.println("We calculated pi as : "+sum);
 		System.out.println("precise as : "+(sum/Math.PI)/100);
+
 	}
 
 	public static void secondMethodComputePi() {
@@ -31,6 +33,7 @@ public class ComputePI {
 				sum -= (double) 1.0 / (term * 2 - 1);
 			}
 		}
+		sum*=4;
 		System.out.println("We calculated pi as : "+sum);
 		System.out.println("precise as : "+(sum/Math.PI)/100);
 	}
