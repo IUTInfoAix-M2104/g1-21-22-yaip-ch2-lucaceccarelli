@@ -4,7 +4,6 @@ public class OddEvenSum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 	}
 	
 	public static void OddEvenSum1() {
@@ -35,19 +34,13 @@ public class OddEvenSum {
 		int number = LOWERBOUND;
 		while (number <= UPPERBOUND) {
 			// number = LOWERBOUND, LOWERBOUND+1, LOWERBOUND+2, ..., UPPERBOUND for each iteration
-			if (number % 3 == 0) {  // Even
+			if ((number % 3 == 0 || number % 5 == 0 || number % 7 == 0) && (number % 15 != 0 && number % 21 != 0 && number % 35 != 0 && number % 105 != 0)) {
 				sumEven += number;   // Same as sumEven = sumEven + number
-			}
-			else if(number % 5 == 0) {
-				sumEven += number; 
-			}
-			else if(number % 7 == 0) {
-				sumEven += number; 
 			}
 			++number;  // Next number
 		} 
 		// Print the result
-		System.out.println("The sum of even numbers from " + LOWERBOUND + " to " + UPPERBOUND + "  is " + sumEven);
+		System.out.println("The sum from " + LOWERBOUND + " to " + UPPERBOUND + "  is " + sumEven);
 
 	}
 	
