@@ -6,7 +6,7 @@ public class Factorial {
 	public static void main(String[] args) {
 
 		int n = 20;
-		double factorial = 1;
+		long factorial = 1;
 
 		// n! = 1*2*3...*n
 		for (int i = 1; i <= n; i++) {  // i = 1, 2, 3, ..., n
