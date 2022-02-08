@@ -5,7 +5,11 @@ public class RunningNumberSum {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		RunningNumberSum1();
-
+		RunningNumberSum2();
+		RunningNumberOddSum();
+		RunningNumberMod7Sum();
+		RunningNumberSquareSum();
+		RunningNumberProduct();
 	}
 	
 	public static void RunningNumberSum1() {
