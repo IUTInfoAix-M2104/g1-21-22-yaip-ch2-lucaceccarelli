@@ -21,6 +21,9 @@ public class SquarePattern {
 			// Print a newline after printing all the columns
 			System.out.println();
 		}
+		
+		//other functions
+		squarePatternNestedWhile();
 	}
 	
 	public static void squarePatternNestedWhile() {
