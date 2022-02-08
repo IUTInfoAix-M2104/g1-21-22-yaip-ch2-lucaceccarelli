@@ -8,3 +8,8 @@ Dans src sous le dossier sous le nom de : IntroductionToJavaProgramming
 
 ## TP 2 :
 Dans src sous le dossier sous le nom de : ExercicesJavaBaiscs
+( ... - 5.1 - 5.2 - 5.3 - 5.4)
+
+## TP 3 :
+Dans src sous le dossier sous le nom de : ExercicesJavaBaiscs
+(6.1 - 6.3 - 7.1 - 8.1 - 8.8 - 8.9 - 9.1 - 9.3 - 10.1 - 10.2 - 10.6 - 11.1)
