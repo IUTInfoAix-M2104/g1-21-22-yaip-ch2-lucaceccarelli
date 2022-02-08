@@ -4,10 +4,7 @@ public class ArithmeticTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ArothmeticTest();
-		ArothmeticTest2();
-		SumProduct3Numbers()
-		
+
 	}
 	
 	public static void ArothmeticTest() {

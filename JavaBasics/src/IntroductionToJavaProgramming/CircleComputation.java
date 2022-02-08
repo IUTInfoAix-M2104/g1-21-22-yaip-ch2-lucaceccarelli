@@ -25,10 +25,6 @@ public class CircleComputation {  // Save as "CircleComputation.java"
 		System.out.println(area);
 		System.out.print("The circumference is ");
 		System.out.println(circumference);
-		
-		//Others outputs
-		RectangleComputation();
-		CylinderComputation();
 	}
 
 	public static void RectangleComputation() {

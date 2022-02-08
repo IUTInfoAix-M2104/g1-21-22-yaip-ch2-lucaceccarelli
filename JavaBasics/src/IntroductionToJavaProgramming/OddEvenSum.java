@@ -25,11 +25,6 @@ public class OddEvenSum {
 		System.out.println("The sum of odd numbers from " + LOWERBOUND + " to " + UPPERBOUND + " is " + sumOdd);
 		System.out.println("The sum of even numbers from " + LOWERBOUND + " to " + UPPERBOUND + "  is " + sumEven);
 		System.out.println("The difference between the two sums is " + (sumOdd - sumEven));
-		
-		//Other functions
-		ThreeFiveSevenSum();
-		PrintLeapYears();
-		
 	}
 	
 	public static void ThreeFiveSevenSum() {

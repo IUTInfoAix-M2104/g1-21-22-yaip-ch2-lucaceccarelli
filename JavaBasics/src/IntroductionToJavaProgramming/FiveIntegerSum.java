@@ -15,12 +15,6 @@ public class FiveIntegerSum {
 	                                        // Cursor stays after the printed string
 	      System.out.println(sum);  // Print the value stored in variable sum
 	                                // Cursor advances to the beginning of next line
-		
-		//Other functions
-		SixIntegerSum();
-		SevenIntegerSum();
-		FiveIntegerProduct();
-		
 	}
 
 	public static void SixIntegerSum() {

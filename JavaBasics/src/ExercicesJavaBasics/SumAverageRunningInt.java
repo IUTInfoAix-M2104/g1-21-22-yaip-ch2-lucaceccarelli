@@ -7,11 +7,6 @@ public class SumAverageRunningInt {   // Save as "SumAverageRunningInt.java"
 	public static void main (String[] args) {
 		//Call the functions
 		forLoopSumAverageRunningInt();
-		whileDoLoopSumAverageRunningInt();
-		doWhileLoopSumAverageRunningInt();
-		Exercice4LoopSumAverageRunningInt();
-		SumOfSquaresAverageRunningInt();
-		SumOddEvenAndDifference();
 	}
 
 	public static void forLoopSumAverageRunningInt() {
