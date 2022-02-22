@@ -45,6 +45,8 @@ public class SumProductMinMax3 {
 
 		// Print results
 		System.out.println("the sum is :"+sum+" the product is : "+product+" min :"+min+" max: "+max);
+		
+		SumProductMinMax5();
 	}
 	
 	public static void SumProductMinMax5() {

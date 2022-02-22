@@ -4,6 +4,10 @@ public class OddEvenSum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		OddEvenSum1();
+		ThreeFiveSevenSum();
+		PrintLeapYears();
+		
 	}
 	
 	public static void OddEvenSum1() {

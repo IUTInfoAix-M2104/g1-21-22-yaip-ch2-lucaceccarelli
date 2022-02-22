@@ -19,6 +19,7 @@ public class ComputePI {
 		System.out.println("We calculated pi as : "+sum);
 		System.out.println("precise as : "+(sum/Math.PI)/100);
 
+		secondMethodComputePi();
 	}
 
 	public static void secondMethodComputePi() {

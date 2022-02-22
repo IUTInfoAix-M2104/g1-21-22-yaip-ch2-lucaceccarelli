@@ -44,9 +44,12 @@ public class ArithmeticTest {
 	      quotient = number1 / number2; 
 	      System.out.println("The new quotient of " + number1 + " and " + number2 
 	            + " is " + quotient);
+	      
+	      ArithmeticTest2();
+	      SumProduct3Numbers();
 	}
 	
-	public static void ArothmeticTest2() {
+	public static void ArithmeticTest2() {
 	      int number1 = 98; // Declare an int variable number1 and initialize it to 98
 	      int number2 = 5;  // Declare an int variable number2 and initialize it to 5
 	      int sum, difference, product, quotient, remainder;  // Declare 5 int variables to hold results
